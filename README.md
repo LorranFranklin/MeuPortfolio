@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é o meu portfólio, contendo os meus mais recentes trabalhos.
 
-- [Acesse o projeto finalizado, online](https://github.com/LorranFranklin/MeuPortfolio)
+- [Acesse o projeto finalizado, online](https://lorranfranklin.github.io/MeuPortfolio/index.html)
