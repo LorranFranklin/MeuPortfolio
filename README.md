@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto MeusLinks" src="/github/README.png" width="100%">
+  <img alt="projeto Meu Portfólio" src="/github/README.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
